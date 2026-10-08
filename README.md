@@ -195,7 +195,7 @@ The scripts read the original NASA files from `dataset/raw_datasets/`, create `d
 
 ## Documentation
 
-The full project report is in [`documentation/project_report.pdf`](documentation/project_report.pdf).
+The full project report is in [`documentation/project_report.pdf`](documentation/project_report.pptx).
 
 ## Author
 
